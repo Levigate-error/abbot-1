@@ -1,0 +1,1 @@
+export { Anamez } from "./anamez";
